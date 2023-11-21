@@ -1,5 +1,5 @@
 export interface Position {
-    id:number
-    name:string
-    displayOrder:number
+    // Id:number
+    // // DisplayOrder:number
+    // Name:string
 }
